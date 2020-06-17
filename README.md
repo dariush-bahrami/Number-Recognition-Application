@@ -4,9 +4,9 @@
 
 ## Prerequisite
 
-- [Pillow]: https://pypi.org/project/Pillow/
+- [Pillow]: https://pypi.org/project/Pillow/ "Pillow"
 
-- [Tensorflow]: https://pypi.org/project/tensorflow/
+- [Tensorflow]: https://pypi.org/project/tensorflow/ "Tensorflow"
 
   
 
@@ -21,7 +21,7 @@
 
 ## Screenshot
 
-![Number Recognition GUI Screenshot](D:\Projects\Python\My Projects\number_recognition_application\GUI Screenshot.png)
+![Number Recognition GUI Screenshot](https://github.com/dariush-bahrami/Number-Recognition-Application/raw/master/GUI%20Screenshot.png)
 
 
 
