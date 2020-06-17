@@ -4,9 +4,9 @@
 
 ## Prerequisite
 
-- [Pillow]: https://pypi.org/project/Pillow/ "Pillow"
+- [Pillow](https://pypi.org/project/Pillow/)
 
-- [Tensorflow]: https://pypi.org/project/tensorflow/ "Tensorflow"
+- [Tensorflow](https://pypi.org/project/tensorflow/)
 
   
 
